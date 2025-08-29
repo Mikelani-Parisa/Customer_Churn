@@ -107,7 +107,7 @@ age
 •	Negative values converted to absolute.
 
 •	Values 0 or above 120 considered invalid and replaced with median of valid ages.
-
+--------------
 4. Outlier Detection
 
 •	Numeric columns visualized using boxplots (2 per row).
