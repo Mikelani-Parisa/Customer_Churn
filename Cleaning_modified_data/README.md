@@ -132,10 +132,15 @@ analysis, feature engineering, or modeling.
 --------------
 --------------
 Key Takeaways
+
 •	Systematic, column-wise cleaning ensures data integrity and reproducibility.
+
 •	Missing values were imputed with mean or median depending on feature type and presence of outliers.
+
 •	Negative or erroneous values were corrected using absolute values or manual replacements.
+
 •	Outlier detection performed to support downstream modeling decisions.
+
 •	Code is modular, readable, and fully documented, demonstrating professional Data Cleaning workflow.
 
 
